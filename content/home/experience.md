@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,12 +29,12 @@ experience:
     date_start: '2020-08-01'
     date_end: ''
     description: |2-
-        **Client Health for IBM Cloud:**
+        **Client Health for IBM Cloud**
         
         * Experience with messy enterprise time series data
         * Building distributed time series forecasting method
         * Customizing ensemble methods such as Random Forests and XGBoost
-        * Scaling this up to all enterprise clients! 
+        * Scaling this up to all enterprise clients
         
   - title: Part-time Data Scientist
     company: NICHE (*Nurses Improving Care for Healthsystem Elders*)

@@ -10,20 +10,20 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Feel free to reach out with any interesting research projects!
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
+  # form:
+  #  provider: formspree
+  #  formspree:
+  #    id: test
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
   
 design:
   columns: '2'

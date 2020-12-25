@@ -26,7 +26,7 @@ item:
 - title: IBM CAO Hackathon 2020 Winner
   date_end: ""
   date_start: "2020-10-15"
-  description: ""
+  description: "Competed against 10 teams, each of eight Data Scientists. Awarded **Best Model**, **Best Presentation**, and stood first overall"
   organization: IBM
   url: "https://www.kaggle.com/c/2020caohackathon/leaderboard"
 - date_end: "2020-08-01"
