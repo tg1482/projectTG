@@ -31,11 +31,14 @@ experience:
     description: |2-
         **Client Health for IBM Cloud**
         
-        * Experience with messy enterprise time series data
+        * Developed, engineered, and deployed an automated monthly usage forecasting system
         * Building distributed time series forecasting method
         * Customizing ensemble methods such as Random Forests and XGBoost
-        * Scaling this up to all enterprise clients
-        
+        * 300 Customer Success Managers get insights into the future of their Cloud clients in their dashboard
+        * Coordinated a team of 6 and organized the recruiting efforts at NYU - 
+        * From initial outreach, info sessions, to evaluating resumes, and corresponding with the candidates
+        * Targetted 70 students for summer internship positions and met the criteria of candidates we set to achieve
+                
   - title: Part-time Data Scientist
     company: NICHE (*Nurses Improving Care for Healthsystem Elders*)
     company_url: ''

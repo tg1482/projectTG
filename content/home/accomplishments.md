@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: IBM CAO Rockstar
+  date_end: ""
+  date_start: "2021-02-22"
+  description: "Recognized as CAO Rockstar in Feb 2021 for exemplary work ethic and results"
+  organization: IBM
 - title: IBM CAO Hackathon 2020 Winner
   date_end: ""
   date_start: "2020-10-15"
